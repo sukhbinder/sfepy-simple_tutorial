@@ -1,6 +1,6 @@
 Simple SFEPY tutorial using a simple plate
 
-+ Getting_Started_With_SFEPY_using_a_simpleplate_example.ipynb - Python Noteboom of the turorial
++ Getting_Started_With_SFEPY_using_a_simpleplate_example.ipynb - Python Notebook of the turorial
 
 + Plots from the tutorial
   + Sfepy_Stress_Strain.png
